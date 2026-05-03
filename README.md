@@ -36,9 +36,6 @@ A signature-based IDS built from scratch in Python using Scapy. Monitors live ne
 **Platforms & Environments**
 `VirtualBox` `Kali Linux` `Ubuntu 24.04 LTS` `Ubuntu 22.04 LTS` `GitHub`
 
-**Certifications**
-`CompTIA Security+`
-
 ---
 
 ## 🌐 Live Projects
